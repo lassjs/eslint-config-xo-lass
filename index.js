@@ -13,6 +13,12 @@ module.exports = {
     'capitalized-comments': 'off',
     camelcase: 'off',
     'no-warning-comments': 'off',
-    'ava/no-todo-test': 'off'
+    'ava/no-todo-test': 'off',
+    'unicorn/catch-error-name': [
+      'error',
+      {
+        name: 'err'
+      }
+    ]
   }
 };
