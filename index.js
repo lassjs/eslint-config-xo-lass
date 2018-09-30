@@ -1,6 +1,4 @@
 module.exports = {
-  prettier: true,
-  space: true,
   parserOptions: {
     sourceType: 'script'
   },
