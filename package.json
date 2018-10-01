@@ -31,9 +31,6 @@
     "remark-preset-github": "latest",
     "xo": "latest"
   },
-  "engines": {
-    "node": ">=8.3"
-  },
   "homepage": "https://github.com/niftylettuce/eslint-config-xo-lass",
   "husky": {
     "hooks": {
