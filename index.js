@@ -19,6 +19,7 @@ module.exports = {
       {
         name: 'err'
       }
-    ]
+    ],
+    'unicorn/import-style': 'off'
   }
 };

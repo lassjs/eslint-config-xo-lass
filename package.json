@@ -4,7 +4,7 @@
   "version": "1.0.3",
   "author": "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)",
   "bugs": {
-    "url": "https://github.com/niftylettuce/eslint-config-xo-lass/issues",
+    "url": "https://github.com/lassjs/eslint-config-xo-lass/issues",
     "email": "niftylettuce@gmail.com"
   },
   "commitlint": {
@@ -27,11 +27,11 @@
     "husky": "latest",
     "lint-staged": "latest",
     "prettier": "latest",
-    "remark-cli": "latest",
+    "remark-cli": "8.x",
     "remark-preset-github": "latest",
     "xo": "latest"
   },
-  "homepage": "https://github.com/niftylettuce/eslint-config-xo-lass",
+  "homepage": "https://github.com/lassjs/eslint-config-xo-lass",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged && npm test",
@@ -78,7 +78,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/niftylettuce/eslint-config-xo-lass"
+    "url": "https://github.com/lassjs/eslint-config-xo-lass"
   },
   "scripts": {
     "lint": "xo && remark . -qfo",
