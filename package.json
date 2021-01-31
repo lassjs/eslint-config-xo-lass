@@ -27,7 +27,7 @@
     "husky": "latest",
     "lint-staged": "latest",
     "prettier": "latest",
-    "remark-cli": "8.x",
+    "remark-cli": "latest",
     "remark-preset-github": "latest",
     "xo": "latest"
   },

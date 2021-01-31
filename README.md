@@ -48,7 +48,7 @@ Add `xo-lass` in the "extends" block of your ESLint or XO config.
 [MIT](LICENSE) © [Nick Baugh](http://niftylettuce.com/)
 
 
-## 
+##
 
 [npm]: https://www.npmjs.com/
 

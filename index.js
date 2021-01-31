@@ -20,6 +20,7 @@ module.exports = {
         name: 'err'
       }
     ],
-    'unicorn/import-style': 'off'
+    'unicorn/import-style': 'off',
+    'unicorn/prevent-abbreviations': 'off'
   }
 };
