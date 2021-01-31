@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-xo-lass",
   "description": "ESLint shareable config for Lass to be used with eslint-config-xo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)",
   "bugs": {
     "url": "https://github.com/lassjs/eslint-config-xo-lass/issues",
