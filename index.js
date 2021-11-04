@@ -21,6 +21,8 @@ module.exports = {
       }
     ],
     'unicorn/import-style': 'off',
-    'unicorn/prevent-abbreviations': 'off'
+    'unicorn/prevent-abbreviations': 'off',
+    'import/extensions': 'off',
+    'unicorn/prefer-module': 'off'
   }
 };
