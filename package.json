@@ -24,7 +24,7 @@
     "node": ">=14"
   },
   "files": [
-    "xo.config.js"
+    "index.js"
   ],
   "homepage": "https://github.com/lassjs/eslint-config-xo-lass",
   "keywords": [
@@ -37,7 +37,7 @@
     "xo"
   ],
   "license": "MIT",
-  "main": "xo.config.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/lassjs/eslint-config-xo-lass"
