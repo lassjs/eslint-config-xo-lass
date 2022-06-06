@@ -24,12 +24,6 @@
 npm install -D eslint-config-xo-lass
 ```
 
-[yarn][]:
-
-```sh
-yarn add -D eslint-config-xo-lass
-```
-
 
 ## Usage
 
@@ -51,8 +45,6 @@ Add `xo-lass` in the "extends" block of your ESLint or XO config.
 ##
 
 [npm]: https://www.npmjs.com/
-
-[yarn]: https://yarnpkg.com/
 
 [shareable-config]: http://eslint.org/docs/developer-guide/shareable-configs.html
 
